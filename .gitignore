@@ -1,0 +1,6 @@
+venv/
+.idea/
+*.pyc
+config.json
+log.txt
+unsaved_entries.txt
